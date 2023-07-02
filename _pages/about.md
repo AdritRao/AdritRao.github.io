@@ -1,26 +1,11 @@
 ---
-layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+title: "Adrit Rao"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a 15-year-old student research intern @ [Stanford University](https://www.stanford.edu/). I am conducting research with the goal of solving healthcare problems at the point-of-care through AI and accessible innovations. I am leading various research efforts and have authored several scientific research publications. I have presented my work at various leading conferences. I am also an iOS app developer and have [5 apps on the App Store](https://apps.apple.com/us/developer/sangeetha-rao/id1509888759). I am a WWDC Scholar ('20, '21), ISEF Grand Awardee ('22), and SigmaXi Top Presenter ('22). I am the founder and CEO of [Aretech Inc.](http://xn--artech-4ua.com/), a non-profit which aims to solve real-world problems through mobile apps and I am also leading an app development course initiative for kids. I also serve as the board member of the Get Involved Foundation where I develop apps that support community service initiatives.
