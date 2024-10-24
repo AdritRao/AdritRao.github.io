@@ -9,3 +9,47 @@ redirect_from:
 ---
 
 I am a 17-year-old student research intern @ [Stanford University](https://profiles.stanford.edu/adrit-rao). I am passionate about conducting research at the intersection of AI, healthcare, and mobile apps. I have authored several publications and presented at various conferences. I am a WWDC Scholar ('20, '21), ISEF Grand Awardee ('22), and Sigma Xi Member & Top Presenter ('22). I am the founder and CEO of [Aretech Inc.](http://xn--artech-4ua.com/), a non-profit which aims to solve real-world problems through mobile apps and I am also leading an app development course initiative for kids. I also serve as the board member of the [Get Involved Foundation](https://www.getinvolvedfoundation.org) where I develop apps that support community service initiatives.
+
+## Projects
+
+---
+
+### AutoABI
+![L2 Code 4 Kids](image-path.jpg)
+
+**Description**:  
+Description
+
+---
+
+### A4
+![Mobile Apps](image-path.jpg)
+
+**Description**:  
+Description
+
+Main Focus:  
+- p1
+- p2
+- p3
+
+---
+
+### [IMIL]
+![Project Title 3](image-path.jpg)
+
+**Description**:  
+Description
+
+Main Focus:  
+- p1
+- p1
+
+---
+
+### [L2 Code 4 Kids]
+![Project Title 4](image-path.jpg)
+
+**Description**:  
+Description
+
