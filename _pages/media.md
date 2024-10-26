@@ -1,8 +1,3 @@
-
-Here’s the updated Markdown with the image enlarged slightly and the text placed below it without HTML for the text formatting:
-
-markdown
-Copy code
 ---
 layout: archive
 title: "Media Coverage"
