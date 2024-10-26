@@ -1,3 +1,8 @@
+
+Here’s the updated Markdown with the image enlarged slightly and the text placed below it without HTML for the text formatting:
+
+markdown
+Copy code
 ---
 layout: archive
 title: "Media Coverage"
@@ -11,72 +16,38 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Media Coverage
 
-Latest list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao).
+**Google's People of AI Podcast:** [Google's People of AI Podcast](https://www.youtube.com/watch?v=-nhLLQRAUBY)
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/c19fe875-bab3-4756-bf90-3af3a70356fd" alt="Google's People of AI Podcast" width="200" style="margin-bottom: 10px;">
+  </div>  
 
-**IMIL: Interactive Medical Image Learning Framework**
-Adrit Rao, Andrea Fisher, Ken Chang, John Christopher Panagides, Katherine McNamara, Joon-Young Lee, Oliver Aalami  
-2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
-**Studying the Effects of Self-Attention for Medical Image Analysis**
-Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
-2021 IEEE/CVF International Conference on Computer Vision
+**Silicon Valley Business Journal:** [Article in Silicon Valley Business Journal](https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2023/09/15/inno-under-25-adrit-rao-ar-tech-founder.html)
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/940d3711-f502-41ef-8abc-107633e6d95e" alt="SVBJ" width="200" style="margin-bottom: 10px;">
+  </div>  
 
-**A Standardized, Scalable, and Automated Open-source CT AAA Diameter Measurement Tool Using Deep Learning**  
-Adrit Rao, Louis Blankemeier, Pauline Berens, Arash Fereydooni, Akshay Chaudhari, Oliver Aalami  
-2024 Journal of Vascular Surgery, Vol. 79, No. 6, pp. e249
+  **KRON4:** [KRON4 News feature](https://www.kron4.com/live-in-the-bay/local-teen-chats-apples-swift-student-challenge/)
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/3b8cae39-ef9e-4079-9f50-f3303de744b7" alt="Kron4" width="200" style="margin-bottom: 10px;">
+  </div>  
 
-**Studying the Impact of Augmentations on Medical Confidence Calibration**  
-Adrit Rao, Joon-Young Lee, Oliver Aalami  
-2023 Proceedings of the IEEE/CVF International Conference on Computer Vision
+  **TEDx Talk:** [“tAPPing into innovation”](https://www.youtube.com/watch?v=ONXmYJl6O5k)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/4ce8f937-47a7-43ee-9173-5b487de7e6fc" alt="Kron4" width="200" style="margin-bottom: 10px;">
+  </div>  
 
-**Development of the Next Generation Hand-Held Doppler with Waveform Phasicity Predictive Capabilities Using Deep Learning**
-Adrit Rao, Akshay Chaudhari, Oliver Aalami  
-2021 MICCAI International Workshop on Clinical Image-Based Procedures
+  **NBC:** [NBC News segment](https://www.nbcbayarea.com/news/tech/apples-student-challenge/3451511/)
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/071f808d-bea1-4dbd-8546-596baf557241" alt="Kron4" width="200" style="margin-bottom: 10px;">
+  </div>  
 
-**Towards improving the visual explainability of artificial intelligence in the clinical setting**  
-Adrit Rao, Oliver Aalami  
-2023 BMC Digital Health, Vol. 1, No. 1, pp. 23
+**Newsweek:** [Featured in Newsweek](https://www.newsweek.com/genius-create-four-apps-interns-stanford-13-years-old-1595760)
 
-**AutoABI: Feasibility of a Smartphone-Enabled ABI and Waveform Phasicity Prediction Model Using Machine Learning for Rapid Point-of-Care Limb Perfusion Assessment**  
-Adrit Rao, Kevin G Battenfield, Arash Fereydooni, Oliver Aalami  
-2021 Vascular Annual Meeting (VAM), Journal of Vascular Surgery, Vol. 74, No. 3, pp. e182
+- **2021**  
+  **Inside Edition:** [Interview on Inside Edition](https://www.youtube.com/watch?v=qYKD_YZ1L8Q)
 
-**The Value of Visual Attention for COVID-19 Classification in CT Scans**  
-Adrit Rao, Jongchan Park, Oliver Aalami  
-2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 433--438
-
-**Waveform Phasicity Prediction from Arterial Sounds through Spectrogram Analysis using Convolutional Neural Networks for Limb Perfusion Assessment**
-Adrit Rao, Kevin Battenfield, Oliver Aalami  
-2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), pp. 462--466
-
-**Preliminary Clinical Validation Results of a Deep Learning Approach for Ankle Brachial Index Prediction in Noncompressible Tibial Vessels**  
-Arash Fereydooni, Adrit Rao, Akshay Chaudhari, Kevin Battenfield, Oliver Aalami  
-2022 Journal of Vascular Surgery, Vol. 76, No. 4, pp. e85
-
-**Increasing the Accessibility of Peripheral Artery Disease Screening with Deep Learning**
-Adrit Rao, Oliver Aalami  
-2022 MICCAI International Workshop on Applications of Medical Artificial Intelligence
-
-**LLM on FHIR--Demystifying Health Records**  
-Paul Schmiedmayer, Adrit Rao, Philipp Zagar, Vishnu Ravi, Aydin Zahedivash, Arash Fereydooni, Oliver Aalami  
-2024 arXiv preprint arXiv:2402.01711
-
-**Comp2Comp: Open-Source Body Composition Assessment on Computed Tomography**  
-Louis Blankemeier, Malte Jensen, Eduardo Pontes Reis, Juan Manuel Zambrano Chaves, Adrit Rao, Sally Yao, Pauline Margaret Berens, Andrew Wentland, Bhanushree Bahl, Kushboo Arora, et al.  
-2023 Medical Imaging with Deep Learning, short paper track
-
-**Accessible artificial intelligence for ophthalmologists**
-Adrit Rao, Harvey A Fishman  
-2022 Nature Eye Journal, Vol. 36, No. 1
-
-**Computationally Efficient Deep Learning Applied to Glaucoma Eye Drop Bottle Detection for Increasing Medication Compliance in Low-Vision Patients**  
-Adrit Rao, Harvey Fishman  
-2022 Investigative Ophthalmology & Visual Science, Vol. 63, No. 7, pp. 2044--A0485
-
-**OCTAI: Smartphone-based Optical Coherence Tomography Image Analysis System**  
-Adrit Rao, Harvey A Fishman  
-2021 IEEE World AI IoT Congress (AIIoT), pp. 0072--0076
+- **2024**  
+  **Indian Express:** [Article in Indian Express](https://indianexpress.com/article/technology/artificial-intelligence/indian-american-teen-prodigy-adrit-rao-ai-stanford-9209472/)
