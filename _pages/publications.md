@@ -17,11 +17,11 @@ author_profile: true
 
 Latest list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao).
 
-**IMIL: Interactive Medical Image Learning Framework** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-90874-4_6))
+**IMIL: Interactive Medical Image Learning Framework**
 Adrit Rao, Andrea Fisher, Ken Chang, John Christopher Panagides, Katherine McNamara, Joon-Young Lee, Oliver Aalami  
 2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
-**Studying the Effects of Self-Attention for Medical Image Analysis** ([Paper](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Rao_Studying_the_Effects_of_Self-Attention_for_Medical_Image_Analysis_ICCVW_2021_paper.pdf))
+**Studying the Effects of Self-Attention for Medical Image Analysis**
 Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
 2021 IEEE/CVF International Conference on Computer Vision
 
@@ -33,7 +33,7 @@ Adrit Rao, Louis Blankemeier, Pauline Berens, Arash Fereydooni, Akshay Chaudhari
 Adrit Rao, Joon-Young Lee, Oliver Aalami  
 2023 Proceedings of the IEEE/CVF International Conference on Computer Vision
 
-**Development of the Next Generation Hand-Held Doppler with Waveform Phasicity Predictive Capabilities Using Deep Learning** ([Paper](https://link.springer.com/chapter/10.1007/978-3-030-90874-4_6))
+**Development of the Next Generation Hand-Held Doppler with Waveform Phasicity Predictive Capabilities Using Deep Learning**
 Adrit Rao, Akshay Chaudhari, Oliver Aalami  
 2021 MICCAI International Workshop on Clinical Image-Based Procedures
 
@@ -49,7 +49,7 @@ Adrit Rao, Kevin G Battenfield, Arash Fereydooni, Oliver Aalami
 Adrit Rao, Jongchan Park, Oliver Aalami  
 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 433--438
 
-**Waveform Phasicity Prediction from Arterial Sounds through Spectrogram Analysis using Convolutional Neural Networks for Limb Perfusion Assessment** ([Paper](https://arxiv.org/pdf/2104.09748.pdf))
+**Waveform Phasicity Prediction from Arterial Sounds through Spectrogram Analysis using Convolutional Neural Networks for Limb Perfusion Assessment**
 Adrit Rao, Kevin Battenfield, Oliver Aalami  
 2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), pp. 462--466
 
@@ -57,7 +57,7 @@ Adrit Rao, Kevin Battenfield, Oliver Aalami
 Arash Fereydooni, Adrit Rao, Akshay Chaudhari, Kevin Battenfield, Oliver Aalami  
 2022 Journal of Vascular Surgery, Vol. 76, No. 4, pp. e85
 
-**Increasing the Accessibility of Peripheral Artery Disease Screening with Deep Learning** ([Paper](https://link.springer.com/chapter/10.1007/978-3-031-17721-7_1))
+**Increasing the Accessibility of Peripheral Artery Disease Screening with Deep Learning**
 Adrit Rao, Oliver Aalami  
 2022 MICCAI International Workshop on Applications of Medical Artificial Intelligence
 
@@ -69,13 +69,13 @@ Paul Schmiedmayer, Adrit Rao, Philipp Zagar, Vishnu Ravi, Aydin Zahedivash, Aras
 Louis Blankemeier, Malte Jensen, Eduardo Pontes Reis, Juan Manuel Zambrano Chaves, Adrit Rao, Sally Yao, Pauline Margaret Berens, Andrew Wentland, Bhanushree Bahl, Kushboo Arora, et al.  
 2023 Medical Imaging with Deep Learning, short paper track
 
-**Accessible artificial intelligence for ophthalmologists** ([Paper](https://www.nature.com/articles/s41433-021-01891-6))
+**Accessible artificial intelligence for ophthalmologists**
 Adrit Rao, Harvey A Fishman  
 2022 Nature Eye Journal, Vol. 36, No. 1
 
 **Computationally Efficient Deep Learning Applied to Glaucoma Eye Drop Bottle Detection for Increasing Medication Compliance in Low-Vision Patients**  
 Adrit Rao, Harvey Fishman  
-2022 Investigative Ophthalmology \& Visual Science, Vol. 63, No. 7, pp. 2044--A0485
+2022 Investigative Ophthalmology & Visual Science, Vol. 63, No. 7, pp. 2044--A0485
 
 **OCTAI: Smartphone-based Optical Coherence Tomography Image Analysis System**  
 Adrit Rao, Harvey A Fishman  
