@@ -117,21 +117,24 @@
 
   /* social buttons */
 
-  $social:
+$social: 
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
 
-  @each $socialnetwork, $color in $social {
-    &--#{$socialnetwork} {
-      background-color: $color;
+@each $socialnetwork, $color in $social {
+  &--#{$socialnetwork} {
+    background-color: $color;
+    font-size: $type-size-5;
+    padding: 0.75em 1.25em;
 
-      &:hover {
-        background-color: mix(#000, $color, 20%);
-      }
+    &:hover {
+      background-color: mix(#000, $color, 20%);
     }
   }
+}
+
 
   /* extra large button */
 
