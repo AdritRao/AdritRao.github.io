@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Media Coverage
-
 **Google's People of AI Podcast:** [Google's People of AI Podcast](https://www.youtube.com/watch?v=-nhLLQRAUBY)
 
 
