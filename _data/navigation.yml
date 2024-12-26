@@ -8,6 +8,9 @@ main:
     
   - title: "Media Coverage"
     url: /media/
+    
+  - title: "Cinematography"
+    url: /cine/
 #   - title: "Talks"
 #     url: /talks/    
 
