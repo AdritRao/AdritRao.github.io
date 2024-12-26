@@ -5,9 +5,9 @@ permalink: /cine/
 author_profile: true
 ---
 
-## Featured Cinematography Videos
+## Cinematography
 
-I enjoy using my drone to capture unique perspectives and cinematic shots! I publish my short films through my YouTube channel [CineNature by Adrit]([https://www.youtube.com/channel/YOUR_CHANNEL_ID](https://www.youtube.com/@cinenature3344)).
+I enjoy using my drone to capture unique perspectives and cinematic shots! I publish my short films through my YouTube channel [CineNature by Adrit](https://www.youtube.com/@cinenature3344).
 
 [![Video 1](https://img.youtube.com/vi/aRjdXKDzJ1I/hqdefault.jpg)](https://www.youtube.com/watch?v=aRjdXKDzJ1I)
 
