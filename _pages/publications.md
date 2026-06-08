@@ -1,82 +1,56 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my research publications on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+16 peer-reviewed publications — [Google Scholar](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao)
 
-{% include base_path %}
+**IMIL: Interactive Medical Image Learning Framework**  
+Adrit Rao et al. · CVPR 2024
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-Latest list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao).
-
-**IMIL: Interactive Medical Image Learning Framework**
-Adrit Rao, Andrea Fisher, Ken Chang, John Christopher Panagides, Katherine McNamara, Joon-Young Lee, Oliver Aalami  
-2024 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
-
-**Studying the Effects of Self-Attention for Medical Image Analysis**
-Adrit Rao, Jongchan Park, Sanghyun Woo, Joon-Young Lee, Oliver Aalami  
-2021 IEEE/CVF International Conference on Computer Vision
+**Studying the Effects of Self-Attention for Medical Image Analysis**  
+Adrit Rao et al. · ICCV 2021
 
 **A Standardized, Scalable, and Automated Open-source CT AAA Diameter Measurement Tool Using Deep Learning**  
-Adrit Rao, Louis Blankemeier, Pauline Berens, Arash Fereydooni, Akshay Chaudhari, Oliver Aalami  
-2024 Journal of Vascular Surgery, Vol. 79, No. 6, pp. e249
+Adrit Rao et al. · Journal of Vascular Surgery 2024
 
 **Studying the Impact of Augmentations on Medical Confidence Calibration**  
-Adrit Rao, Joon-Young Lee, Oliver Aalami  
-2023 Proceedings of the IEEE/CVF International Conference on Computer Vision
+Adrit Rao et al. · ICCV 2023
 
-**Development of the Next Generation Hand-Held Doppler with Waveform Phasicity Predictive Capabilities Using Deep Learning**
-Adrit Rao, Akshay Chaudhari, Oliver Aalami  
-2021 MICCAI International Workshop on Clinical Image-Based Procedures
+**Development of the Next Generation Hand-Held Doppler with Waveform Phasicity Predictive Capabilities Using Deep Learning**  
+Adrit Rao et al. · MICCAI 2021
 
 **Towards improving the visual explainability of artificial intelligence in the clinical setting**  
-Adrit Rao, Oliver Aalami  
-2023 BMC Digital Health, Vol. 1, No. 1, pp. 23
+Adrit Rao, Oliver Aalami · BMC Digital Health 2023
 
-**AutoABI: Feasibility of a Smartphone-Enabled ABI and Waveform Phasicity Prediction Model Using Machine Learning for Rapid Point-of-Care Limb Perfusion Assessment**  
-Adrit Rao, Kevin G Battenfield, Arash Fereydooni, Oliver Aalami  
-2021 Vascular Annual Meeting (VAM), Journal of Vascular Surgery, Vol. 74, No. 3, pp. e182
+**AutoABI: Feasibility of a Smartphone-Enabled ABI and Waveform Phasicity Prediction Model**  
+Adrit Rao et al. · Journal of Vascular Surgery 2021
 
 **The Value of Visual Attention for COVID-19 Classification in CT Scans**  
-Adrit Rao, Jongchan Park, Oliver Aalami  
-2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), pp. 433--438
+Adrit Rao et al. · ICCV Workshops 2021
 
-**Waveform Phasicity Prediction from Arterial Sounds through Spectrogram Analysis using Convolutional Neural Networks for Limb Perfusion Assessment**
-Adrit Rao, Kevin Battenfield, Oliver Aalami  
-2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS), pp. 462--466
+**Waveform Phasicity Prediction from Arterial Sounds through Spectrogram Analysis**  
+Adrit Rao et al. · MWSCAS 2021
 
-**Preliminary Clinical Validation Results of a Deep Learning Approach for Ankle Brachial Index Prediction in Noncompressible Tibial Vessels**  
-Arash Fereydooni, Adrit Rao, Akshay Chaudhari, Kevin Battenfield, Oliver Aalami  
-2022 Journal of Vascular Surgery, Vol. 76, No. 4, pp. e85
+**Preliminary Clinical Validation Results of a Deep Learning Approach for Ankle Brachial Index Prediction**  
+Arash Fereydooni, Adrit Rao et al. · Journal of Vascular Surgery 2022
 
-**Increasing the Accessibility of Peripheral Artery Disease Screening with Deep Learning**
-Adrit Rao, Oliver Aalami  
-2022 MICCAI International Workshop on Applications of Medical Artificial Intelligence
+**Increasing the Accessibility of Peripheral Artery Disease Screening with Deep Learning**  
+Adrit Rao, Oliver Aalami · MICCAI 2022
 
-**LLM on FHIR--Demystifying Health Records**  
-Paul Schmiedmayer, Adrit Rao, Philipp Zagar, Vishnu Ravi, Aydin Zahedivash, Arash Fereydooni, Oliver Aalami  
-2024 arXiv preprint arXiv:2402.01711
+**LLM on FHIR—Demystifying Health Records**  
+Paul Schmiedmayer, Adrit Rao et al. · arXiv 2024
 
 **Comp2Comp: Open-Source Body Composition Assessment on Computed Tomography**  
-Louis Blankemeier, Malte Jensen, Eduardo Pontes Reis, Juan Manuel Zambrano Chaves, Adrit Rao, Sally Yao, Pauline Margaret Berens, Andrew Wentland, Bhanushree Bahl, Kushboo Arora, et al.  
-2023 Medical Imaging with Deep Learning, short paper track
+Louis Blankemeier, Adrit Rao et al. · MIDL 2023
 
-**Accessible artificial intelligence for ophthalmologists**
-Adrit Rao, Harvey A Fishman  
-2022 Nature Eye Journal, Vol. 36, No. 1
+**Accessible artificial intelligence for ophthalmologists**  
+Adrit Rao, Harvey Fishman · Nature Eye 2022
 
-**Computationally Efficient Deep Learning Applied to Glaucoma Eye Drop Bottle Detection for Increasing Medication Compliance in Low-Vision Patients**  
-Adrit Rao, Harvey Fishman  
-2022 Investigative Ophthalmology & Visual Science, Vol. 63, No. 7, pp. 2044--A0485
+**Computationally Efficient Deep Learning Applied to Glaucoma Eye Drop Bottle Detection**  
+Adrit Rao, Harvey Fishman · IOVS 2022
 
 **OCTAI: Smartphone-based Optical Coherence Tomography Image Analysis System**  
-Adrit Rao, Harvey A Fishman  
-2021 IEEE World AI IoT Congress (AIIoT), pp. 0072--0076
+Adrit Rao, Harvey Fishman · IEEE AIIoT 2021

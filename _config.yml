@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adrit Rao"
 title_separator          : "-"
 name                     : &name "Adrit Rao"
-description              : &description "personal description"
+description              : &description "Technical Product Lead · UC Berkeley EECS + BioE · AI + Healthcare"
 url                      : https://AdritRao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Adrit Rao"
   avatar           : "pfp2.jpg"
-  bio              : "Researcher, App Developer, AI + Healthcare"
-  location         : 
-  employer         :
+  bio              : "Technical Product Lead @ Cognita · UC Berkeley EECS + BioE · WWDC Scholar"
+  location         : "Palo Alto, CA"
+  employer         : "Cognita"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao"
   email            :
@@ -208,7 +208,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 #   # _teaching
 #   - scope:
 #       path: ""

@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "Cinematography"
+layout: single
+title: "Film"
 permalink: /cine/
-author_profile: true
+author_profile: false
 ---
 
-## Cinematography
-
-I enjoy using my drone to capture unique perspectives and cinematic shots! I publish my short films through my YouTube channel [CineNature by Adrit](https://www.youtube.com/@cinenature3344).
+Drone cinematography and short films on [CineNature by Adrit](https://www.youtube.com/@cinenature3344).
 
 [![Video 1](https://img.youtube.com/vi/aRjdXKDzJ1I/hqdefault.jpg)](https://www.youtube.com/watch?v=aRjdXKDzJ1I)
 

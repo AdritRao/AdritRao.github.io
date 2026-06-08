@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main" class="home-main">
+  <article class="home" itemscope itemtype="http://schema.org/Person">
+    <section class="home__hero fade-in">
+      <div class="home__avatar">
+        <img src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ site.author.name }}">
+      </div>
+      <h1 class="home__name" itemprop="name">{{ site.author.name }}</h1>
+      <p class="home__tagline">{{ site.author.bio }}</p>
+      <p class="home__location">{{ site.author.location }}</p>
+      <div class="home__links">
+        {% if site.author.linkedin %}
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+        {% endif %}
+        {% if site.author.github %}
+          <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
+        {% endif %}
+        {% if site.author.googlescholar %}
+          <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">Scholar</a>
+        {% endif %}
+        {% if site.author.twitter %}
+          <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+        {% endif %}
+      </div>
+    </section>
+
+    <section class="home__content">
+      {{ content }}
+    </section>
+  </article>
+</div>

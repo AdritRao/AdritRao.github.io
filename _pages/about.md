@@ -1,15 +1,36 @@
 ---
 permalink: /
+layout: home
 title: "Adrit Rao"
-excerpt: "About me"
-author_profile: true
+excerpt: "Technical Product Lead · UC Berkeley · AI + Healthcare"
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Adrit is an 18-year-old student studying EECS+BioE at UC Berkeley who is passionate about research at the intersection of deep learning, healthcare, and mobile apps. For the past four years, he has been conducting digital health research at [Stanford's Vascular Surgery division](https://profiles.stanford.edu/adrit-rao). He is also a member of the [Stanford Mussallem Center for Biodesign's Digital Health group](https://bdh.stanford.edu/team) and serves as a [TA for Stanford's CS342 course](https://bdh.stanford.edu/people/adrit-rao).
+I'm a freshman at UC Berkeley studying EECS and Bioengineering, building at the intersection of AI, healthcare, and mobile apps.
 
-Adrit has co-authored [16 peer-reviewed publications](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao), including 13 as first author. He has presented at several prestigious international conferences, including MICCAI, ICCV, CVPR, and MWSCAS. He developed [**AutoABI**](https://www.autoabi.app), a [patent-pending](https://techfinder.stanford.edu/technology/using-deep-learning-predict-ankle-brachial-index-doppler-sounds-diabetic-patients) AI-enabled app for peripheral artery disease diagnosis. He developed the [**A4**](https://www.jvascsurg.org/article/S0741-5214(24)00812-7/fulltext) deep learning pipeline for automated abdominal aortic aneurysm measurement which is open-sourced through Stanford AIMI's [Comp2Comp](https://github.com/StanfordMIMI/Comp2Comp?tab=readme-ov-file#aaa-segmentation-and-maximum-diameter-measurement). His research also focuses on improving the explainability of computer vision for medical image analysis. He is also a contributor to Stanford Spezi's digital health ecosystem.
+I work as a Technical Product Lead at [Cognita](https://www.cognita.ai) and conduct digital health research at [Stanford](https://profiles.stanford.edu/adrit-rao). I've co-authored [16 peer-reviewed publications](https://scholar.google.com/citations?user=g1Kz9DIAAAAJ&hl=en&oi=ao) and built [AutoABI](https://www.autoabi.app), an AI app for peripheral artery disease screening. I'm also a three-time Apple WWDC Scholar ('20, '21, '25) and founder of [Aretech Inc.](http://xn--artech-4ua.com/), a nonprofit building mobile apps for social impact.
 
-Adrit is the founder of [Aretech Inc.](http://xn--artech-4ua.com/), a non-profit which aims to solve real-world problems through mobile apps and leads an app development course initiative for kids around the nation. He also serves as a board member of the City of Palo Alto supported [Get Involved Foundation](https://www.getinvolvedfoundation.org), supporting community service initatives through app development. 
+<div class="home__cards">
+  <div class="home__card fade-in">
+    <h3>Research</h3>
+    <p>Deep learning for medical imaging and clinical AI at Stanford. 13 first-author papers across MICCAI, ICCV, CVPR, and more.</p>
+  </div>
+  <div class="home__card fade-in">
+    <h3>Products</h3>
+    <p>AutoABI for PAD diagnosis, A4 for AAA measurement, and app development courses through Aretech and the Get Involved Foundation.</p>
+  </div>
+  <div class="home__card fade-in">
+    <h3>Recognition</h3>
+    <p>ISEF Grand Award, MICCAI Best Student Paper, Congressional App Challenge winner, and Bay Area Inno Under 25.</p>
+  </div>
+</div>
+
+<div class="home__nav-links">
+  <a href="/publications/">Publications</a>
+  <a href="/awards/">Awards</a>
+  <a href="/media/">Media</a>
+  <a href="/cine/">Film</a>
+</div>
