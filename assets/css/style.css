@@ -13,6 +13,7 @@
   --text: #111111;
   --muted: #6b6b6b;
   --faint: #e5e5e5;
+  --link-underline: rgba(17, 17, 17, 0.42);
   --display: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans: "Instrument Sans", -apple-system, BlinkMacSystemFont, sans-serif;
   --width: 560px;
@@ -201,6 +202,19 @@ main.home {
 
 .content p:last-child {
   margin-bottom: 0;
+}
+
+.content a,
+.page-intro a {
+  text-decoration: none;
+  color: var(--text);
+  box-shadow: inset 0 -1px 0 var(--link-underline);
+  transition: box-shadow 0.2s var(--ease);
+}
+
+.content a:hover,
+.page-intro a:hover {
+  box-shadow: inset 0 -1.5px 0 var(--text);
 }
 
 .highlights {
